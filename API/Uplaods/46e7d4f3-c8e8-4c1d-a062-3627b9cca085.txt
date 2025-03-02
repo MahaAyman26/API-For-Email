@@ -1,0 +1,16 @@
+https://github.com/nihira2020/WEBAPI_CORE_7/tree/master/Container 
+
+
+https://www.youtube.com/watch?v=e0n_Ai-n_TI 
+
+https://www.csharp.com/blogs/hangfire-introduction-and-implementation-in-net-core-6-web-api
+
+https://dotnetfullstackdev.medium.com/one-time-password-otp-the-key-to-secure-logins-via-email-and-mobile-in-net-edefe4f2ee58
+
+https://chatgpt.com/share/67bc88df-e934-800a-8db6-95396b2bff37
+
+https://www.youtube.com/watch?v=_uZYOgzYheU 
+
+
+https://brightsec.com/blog/api-security/
+
